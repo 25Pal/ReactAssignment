@@ -24,7 +24,7 @@ const GetData = function () {
                    
                     return (
                         <Card
-                        key={index}
+                        key={x.id}
                         id={x.id}
                         title={x.title}
                         body={x.body}
