@@ -1,13 +1,10 @@
 import React from 'react';
-
-
-import GetData from './Component/getData'
+import Registration from './Component/form'
 
 function App() {
   return (
     <div >
-      <GetData/>
-      
+      <Registration/>
     </div>
   );
 }
