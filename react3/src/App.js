@@ -1,12 +1,12 @@
 import React from 'react';
 
 
-import GetData from './Component/getData'
+import Counter from './Component/counter'
 
 function App() {
   return (
     <div >
-      <GetData/>
+      <Counter/>
       
     </div>
   );
